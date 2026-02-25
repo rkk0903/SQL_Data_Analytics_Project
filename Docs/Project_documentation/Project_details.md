@@ -126,6 +126,18 @@ These provide business insights for decision making.
 
 ---
 
+### Customer KPIs
+- Recency
+- Total Sales
+- Total Orders
+- Average Order Value
+- Average Monthly Spend
+
+### Product KPIs
+- Total Sales
+- Total Quantity Sold
+- Average Order Revenue
+- Average Monthly Revenue
 ## 🏗 Project Structure
 
 Project/
