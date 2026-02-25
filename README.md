@@ -9,7 +9,7 @@ Modern SQL analytics repository featuring real-world analytical patterns such as
 
 ---
 
-## 🏗 Architecture
+## 🏗 Medallion Architecture
 
 ### 🥉 Bronze Layer
 Raw data imported without modifications.
