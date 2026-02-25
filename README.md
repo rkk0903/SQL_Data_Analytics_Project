@@ -93,3 +93,9 @@ Built a complete SQL-based analytics pipeline using modern data warehouse practi
 
 ## 🚀 Repository Description
 End-to-end SQL Data Analysis project implementing ETL process and modern data warehouse architecture (Bronze, Silver, Gold layers).
+
+
+👨‍💻 Author
+
+Rahul kumar 📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/ 
+📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
