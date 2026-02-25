@@ -106,16 +106,13 @@ SQL PROJECT/
 
 ---
 
-## 🎯 Outcome
-Built a complete SQL-based analytics pipeline using modern data warehouse practices for business reporting.
-
 ---
 
-## 🚀 Repository Description
-End-to-end SQL Data Analysis project implementing ETL process and modern data warehouse architecture (Bronze, Silver, Gold layers).
+## 🚀 Repository 
+    GITHUB Project link - https://github.com/rkk0903/SQL_Data_Analytics_Project
 
 
 👨‍💻 Author
 
-- Rahul kumar 📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/ 
- - 📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
+   - Rahul kumar 📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/ 
+    - 📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
