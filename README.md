@@ -4,7 +4,9 @@
 This project demonstrates an **end-to-end SQL Data Analytics pipeline** using a modern **Data Warehouse architecture** (Bronze → Silver → Gold).
 
 The project covers data ingestion, ETL processing, data modelling, analytical SQL queries, and report generation using sales, customer, and product data.
+
 Modern SQL analytics repository featuring real-world analytical patterns such as time-based trend analysis, cumulative metrics, performance measurement, segmentation, and part-to-whole insights
+
 ---
 
 ## 🏗 Architecture
