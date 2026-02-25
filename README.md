@@ -73,7 +73,27 @@ SQL PROJECT/
 - Part-to-whole analysis
 
 ---
+## 📈 Analysis Performed
+- Ranking analysis
+- Change-over-time analysis
+- Cumulative analysis
+- Performance analysis
+---
+## 📊 Key KPIs
 
+### Customer KPIs
+- Recency
+- Total Sales
+- Total Orders
+- Average Order Value
+- Average Monthly Spend
+
+### Product KPIs
+- Total Sales
+- Total Quantity Sold
+- Average Order Revenue
+- Average Monthly Revenue
+---
 ## 🧠 SQL Skills Used
 
 - Joins
