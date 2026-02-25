@@ -1,13 +1,10 @@
-# SQL_Data_Analytics_Project
-Modern SQL analytics repository featuring real-world analytical patterns such as time-based trend analysis, cumulative metrics, performance measurement, segmentation, and part-to-whole insights
-
 # 📊 SQL Data Analysis Project
 
 ## 📌 Overview
 This project demonstrates an **end-to-end SQL Data Analytics pipeline** using a modern **Data Warehouse architecture** (Bronze → Silver → Gold).
 
 The project covers data ingestion, ETL processing, data modelling, analytical SQL queries, and report generation using sales, customer, and product data.
-
+Modern SQL analytics repository featuring real-world analytical patterns such as time-based trend analysis, cumulative metrics, performance measurement, segmentation, and part-to-whole insights
 ---
 
 ## 🏗 Architecture
@@ -30,29 +27,28 @@ Business-ready analytical model:
 
 ## 🗂 Project Structure
 SQL PROJECT/
-│
-├── Data-Analysis_project/
-│   ├── Datasets/
-│   │   ├── bronze.*
-│   │   ├── silver.*
-│   │   └── gold.*
-│   │
-│   └── Scripts/
-│       ├── 00_Create_database_or_tables.sql
-│       ├── 01_Database_exploration.sql
-│       ├── 02_Dimension_exploration.sql
-│       ├── 03_Data_range_exploration.sql
-│       ├── 04_Measures_exploration.sql
-│       ├── 05_Magnitude_analysis.sql
-│       ├── 06_Ranking_analysis.sql
-│       ├── 07_Change_over_time_analysis.sql
-│       ├── 08_Cumulative_analysis.sql
-│       ├── 09_Performance_analysis.sql
-│       ├── 10_Data_segmentation.sql
-│       ├── 11_Part_to_whole_analysis.sql
-│       ├── 12_Report_customer.sql
-│       └── 13_Report_product.sql
-
+- │
+- ├── Data-Analysis_project/
+- │   ├── Datasets/
+- │   │   ├── bronze.*
+- │   │   ├── silver.*
+- │   │   └── gold.*
+- │   │
+- │   └── Scripts/
+- │       ├── 00_Create_database_or_tables.sql
+- │       ├── 01_Database_exploration.sql
+- │       ├── 02_Dimension_exploration.sql
+- │       ├── 03_Data_range_exploration.sql
+- │       ├── 04_Measures_exploration.sql
+- │       ├── 05_Magnitude_analysis.sql
+- │       ├── 06_Ranking_analysis.sql
+- │       ├── 07_Change_over_time_analysis.sql
+- │       ├── 08_Cumulative_analysis.sql
+- │       ├── 09_Performance_analysis.sql
+- │       ├── 10_Data_segmentation.sql
+- │       ├── 11_Part_to_whole_analysis.sql
+- │       ├── 12_Report_customer.sql
+- │       └── 13_Report_product.sql
 
 ---
 
