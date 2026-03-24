@@ -71,13 +71,6 @@ SQL PROJECT/
 - Performance analysis
 - Data segmentation
 - Part-to-whole analysis
-
----
-## 📈 Analysis Performed
-- Ranking analysis
-- Change-over-time analysis
-- Cumulative analysis
-- Performance analysis
 ---
 ## 📊 Key KPIs
 
